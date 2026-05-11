@@ -2,13 +2,12 @@
 
 Welcome to my portfolio! Here are some of the projects I’ve built.
 
-## 💡 AI & Machine Learning
+- [🚗XDriver — Smart Carpooling Platform]((https://github.com/OthmaneBelkarda1/XDriver-Full-app/blob/main/README.md))  
+  A neural network built from scratch to recognize handwritten digits using MNIST.https://github.com/OthmaneBelkarda1/XDriver-Full-app/blob/main/README.md
+- [🤖CampusFlow](https://github.com/OthmaneBelkarda1/EmsiClassFlowBackend) 
+  This project addresses key inefficiencies in school campus management by providing a centralized digital system to improve communication, coordination, and class              organization.
 - [🧠 Handwritten Digit Recognition](https://github.com/OthmaneBelkarda1/Handwritten-Digit-Recognition-using-Neural-Networks)  
   A neural network built from scratch to recognize handwritten digits using MNIST.
-
-## 🌐 Web Development
-- [🤖CampusFlow](https://github.com/OthmaneBelkarda1/EmsiClassFlowBackend) 
-  This project addresses key inefficiencies in school campus management by providing a centralized digital system to improve communication, coordination, and class      organization.
 - [✨ Digital Marketing Agency Portfolio](https://github.com/OthmaneBelkarda1/ReachMediagency)  
   A portfolio website for a digital marketing agency.
 - [📕 School Website - Alqos GS](https://github.com/OthmaneBelkarda1/Alqos-GS)  
