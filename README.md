@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! Here are some of the projects I’ve built.
 
-- [🚗XDriver — Smart Carpooling Platform]((https://github.com/OthmaneBelkarda1/XDriver-Full-app/blob/main/README.md))
+- [🚗XDriver — Smart Carpooling Platform](https://github.com/OthmaneBelkarda1/XDriver-Full-app/blob/main/README.md)
   XDriver is a full-stack carpooling application that connects drivers and passengers with AI-powered pricing, a modern React frontend, a robust Django backend, and an MCP      server that allows passengers to search and book rides directly from WhatsApp.
 - [🤖CampusFlow](https://github.com/OthmaneBelkarda1/EmsiClassFlowBackend) 
   This project addresses key inefficiencies in school campus management by providing a centralized digital system to improve communication, coordination, and class              organization.
