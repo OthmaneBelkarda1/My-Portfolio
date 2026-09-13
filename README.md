@@ -1,6 +1,7 @@
 # 🚀 My Portfolio
 
 Welcome to my portfolio! Here are some of the projects I’ve built.
+
 - [Market_Research_Agent](https://github.com/OthmaneBelkarda1/Market_Research_Backend)
 a multi-agent system that runs the full market study for an e-commerce product before you launch it.
 You give it a product and a target area. It scrapes data from several sources, analyses it, and comes back with one report — customer insights, benchmarking against the competition, and a final verdict: enter this market, or don't
