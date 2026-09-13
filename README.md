@@ -1,8 +1,9 @@
 # 🚀 My Portfolio
 
 Welcome to my portfolio! Here are some of the projects I’ve built.
--[Market_Research_Agent](https://github.com/OthmaneBelkarda1/Market_Research_Backend)
-This is an agentic AI system that takes an e-commerce product and a target country as input, then conducts a comprehensive market research analysis for that product in the selected market. It generates a detailed report covering customer insights, competitor analysis, market benchmarking, and ultimately provides a clear market verdict on the product’s potential.
+- [Market_Research_Agent](https://github.com/OthmaneBelkarda1/Market_Research_Backend)
+a multi-agent system that runs the full market study for an e-commerce product before you launch it.
+You give it a product and a target area. It scrapes data from several sources, analyses it, and comes back with one report — customer insights, benchmarking against the competition, and a final verdict: enter this market, or don't
 - [🚗XDriver — Smart Carpooling Platform](https://github.com/OthmaneBelkarda1/XDriver-Full-app/blob/main/README.md)
   XDriver is a full-stack carpooling application that connects drivers and passengers with AI-powered pricing, a modern React frontend, a robust Django backend, and an MCP      server that allows passengers to search and book rides directly from WhatsApp.
 - [🤖CampusFlow](https://github.com/OthmaneBelkarda1/EmsiClassFlowBackend) 
